@@ -1,2 +1,2 @@
 # ICS
-# Only for messy programmers
+Just school work
